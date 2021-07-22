@@ -1,0 +1,2 @@
+    Esta app sencilla usa el useContext para consumir data ( simulada ).
+no se utilizan los props para pasar data entre componentes, si no que se consume desde un archivo externo; se puede cambiar el button de componente sin afectar la funcionabilidad y no hay que modificar el codigo.
